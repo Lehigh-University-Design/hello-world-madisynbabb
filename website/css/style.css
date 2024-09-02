@@ -1,0 +1,15 @@
+body{
+    /* background-color: black; */
+    h1 {text-align: center;}
+    h1 {font-size: 50px}
+    p {text-align: center;}
+    p {font-size: 40px}
+    /* background-image: url('pattern.png'); */
+    background-image: url('../pattern.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+   
+        
